@@ -58,7 +58,7 @@ Exemplo
 
 ## 🛠️ Construído com
 
-Ferramentas utilizadas para construção do conversor de moedas foram:
+Ferramentas utilizadas para construção da aplicação foram:
 
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
